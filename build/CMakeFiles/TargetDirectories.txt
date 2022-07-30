@@ -1,3 +1,0 @@
-/home/fanghan/GM2/QMethodUtilities/Simulation/build/CMakeFiles/rebuild_cache.dir
-/home/fanghan/GM2/QMethodUtilities/Simulation/build/CMakeFiles/edit_cache.dir
-/home/fanghan/GM2/QMethodUtilities/Simulation/build/CMakeFiles/QSimulation.dir
