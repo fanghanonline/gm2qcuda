@@ -8,10 +8,10 @@ The input
 - GNU Build Tool 8.0+
 - CERN ROOT 6.0 +
 ## How to Build
-Make a ```build_dir```.
-```cd build```
-```cmake ..```
-```make -j16```
+- Make a ```build_dir```.
+- ```cd build```
+- ```cmake ..```
+- ```make -j16```
 ## Run the Simulation
-```cd build```
-```./QSimulation -c ../input/FFT_ADCHist_elab2.0.json -flush 10240 -run 3 ```
+- ```cd build```
+- ```./QSimulation -c ../input/FFT_ADCHist_elab2.0.json -flush 10240 -run 3 ```
